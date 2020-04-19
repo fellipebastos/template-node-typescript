@@ -1,4 +1,4 @@
-class Category {
+class ExampleModel {
   id: string;
 
   title: string;
@@ -8,4 +8,4 @@ class Category {
   updated_at: Date;
 }
 
-export default Category;
+export default ExampleModel;
